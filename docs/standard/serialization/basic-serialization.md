@@ -21,7 +21,7 @@ ms.workload:
 
 [!INCLUDE [binary-serialization-warning](../../../includes/binary-serialization-warning.md)]
 
-The easiest way to make a class serializable is to mark it with the <xref:System.SerializableAttribute> as follows.  
+The easiest way to make a class serializable is to mark it with the <xref:System.Serializable> Attribute as follows.  
   
 ```csharp  
 [Serializable]  
